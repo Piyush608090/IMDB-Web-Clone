@@ -8,3 +8,8 @@ Fav button where you can add movies to your favourite list and check them on fav
 ![Screenshot (13)](https://github.com/Piyush608090/IMDB-Web-Clone/assets/119125610/4d0f9f98-b256-4968-b99c-b5779980cb4a)
 favourite page where you checked your favourite movies list
 these all features about my IMDB Web Clone  
+Features:
+1.Search
+2.See deatils about movie
+3.Add to fav
+4.Remove from fav
