@@ -1,0 +1,50 @@
+.sign-in{
+    background-color: #FFF;
+    height: 500px;
+    width: 70%;
+    margin-left: 15%;
+    padding: 20px 20px 20px 20px;
+    display: flex;
+}
+.left-side{
+    background-color: #FFF;
+    height: 400px;
+    width: 40%;
+    padding: 10px;
+    display: block;
+}
+.left-side a{
+    height: 10%;
+    width: 60%;
+    margin: 5pt;
+    margin-left: 20%;
+    border:solid rgb(102, 95, 95) 0.5px;
+    display: flex;
+    align-items: center;
+}
+.example{
+    height: 200px;
+    width: 200px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WwgH7Nl5_AW9nDCnR2Ozb_AU3rkIbSJdAg&s");
+}
+.left-side a img{
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    padding: 5px;
+}
+.left-side a p{
+    margin-left: 10px;
+    padding: 5px;
+    font-weight: bolder;
+}
+.left-side h1{
+    text-align: center;
+}
+.right-side{
+    height: 400px;
+    width: 60%;
+    margin-left:20px;
+    padding: 10px;
+    color: black;
+}
