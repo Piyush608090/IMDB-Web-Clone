@@ -1,5 +1,5 @@
 # IMDB-Web-Clone
-<h2>Link:</h2>h2> <a> https://piyush608090.github.io/IMDB-Web-Clone/ </a>
+<h2>Link:</h2> <a> https://piyush608090.github.io/IMDB-Web-Clone/ </a>
 <br>
 ![Screenshot (8)](https://github.com/Piyush608090/IMDB-Web-Clone/assets/119125610/c9ce48a6-98f1-441d-b75e-4cdd7087d404)
 That is the Main Home Page where you see slideshow and search about movies.
