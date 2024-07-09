@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Imdb Clone App</title>
+        <link rel="stylesheet" href="/fav/fav.css">
+    <div id="main-header">
+    <a href="/index.html"><img src="/Images/image.png" alt="logo-image" id="logo-image"></a>
+    <input  type="text" placeholder="Search Movie ...." style="height: 27px;
+    width: 800px;
+    margin: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    " onkeyup="findMovies()" oneclick = "findMovies()"></input>
+    <button class="fav-button">Search</button>
+    <a href="/fav/fav.html"><button class="fav-button">Favourites</button></a>
+<button class="fav-button"><a href="/signin/signin.html">Sign in</a></button>
+</div>
+</head>
+<body style="  background-color: rgb(181, 190, 190);">
+<div class="fav-container" id="fav-container">
+</div>
+<script src="fav.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
